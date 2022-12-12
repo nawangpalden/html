@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personel Album</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- CUSTOM CSS -->
+
+</head>
+<body>
+
+    <input type="radio" name="Photos" id="check1" checked>
+    <input type="radio" name="Photos" id="check2">
+    <input type="radio" name="Photos" id="check3">
+    <input type="radio" name="Photos" id="check4">
+
+<div class="container">
+    <h1>PERSONEL ALBUM</h1>
+    <div class="top-content">
+        <h3>Photo Gallery</h3>
+        <label for="check1">All Photos</label>
+        <label for="check2">Scenery Photos</label>
+        <label for="check3">Wildlife Photos</label>
+        <label for="check4">Nature Photos</label>
+
+    </div>
+    <div class="photo-gallery">
+        <div class="pic nature1">
+            <img src="R (3).jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery1">
+            <img src="CRU7lJc.jpg" style="width:400px;height:230px">
+       </div>
+       <div class="pic wildlife1">
+           <img src="OIP (1).jpeg" style="width:400px;height:230px">
+        </div>
+        <div class=" pic nature2">
+            <img src="9f378b4133dcc1a56a0f8cf31baa974a.jpg" style="width:400px;height:230px">
+        </div>
+        <div class=" pic scenery2">            
+            <img src="OIP.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic wildlife2">
+            <img src="OIP (2).jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic nature3">
+            <img src="R (3).jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery3">
+            <img src="R4.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic wildlife3">
+            <img src="OIP (3).jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic nature4">
+            <img src="nature4.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery4">
+            <img src="scenery4.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic wildlife4">
+            <img src="wildlife4.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic nature5">
+            <img src="nature5.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery5">
+            <img src="scenery5.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic wildlife5">
+            <img src="wildlife5.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic nature6">
+            <img src="nature6.jpg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery6">
+            <img src="scenery6.jpg" style="width:400px;height:230px">
+        </div>
+        <div class="pic wildlife6">
+            <img src="wildlife6.jpeg" style="width:400px;height:230px">
+        </div>
+        <div class="pic nature7">
+            <img src="nature7.jpg" style="width:400px;height:230px">
+        </div>
+        <div class="pic scenery7">
+            <img src="scenery7.jpeg" style="width:400px;height:230px">
+        </div>
+    </div>
+</div>
+    
+</body>
+</html>
